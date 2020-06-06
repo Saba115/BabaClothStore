@@ -1,0 +1,149 @@
+.navbar {
+    background-color: #B22222	!important;
+    color: black !important;
+}
+.nav-link{
+    color: black !important;
+    font-weight: bold !important;
+    
+}
+.nav-item:hover{
+    text-decoration: underline;
+    
+}
+.navbar-text {
+    color: black !important;
+    font-size: larger;
+   word-spacing : 25px !important;
+}
+.Happy{
+    font-size: 20px  !important;
+    background-color: brown;
+    padding: 5px;
+
+}
+.btn{
+    background-color: brown;
+}
+.card-img-top{
+    height: 300px;
+}
+.maindiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 30px;
+    flex-wrap: wrap;
+   
+}
+
+    
+
+.card{
+    margin-top: 15px;
+
+}
+.heading{
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: brown;
+    padding-top: 30px;
+}
+
+.card1{
+    width: 100%;
+    height: 100%;
+    
+          
+}
+/* .card2{
+    width: 580px;
+    height: 10%;
+    display: inline-block;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 60px;
+}
+.card3{
+    width: 580px;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 60px;
+} */
+
+.footer{
+    background: rgb(133, 32, 32);
+    color:white;
+}  
+   
+    
+  
+  .Forspace{
+      word-spacing: 10px;
+       }
+
+       .part1{
+           margin: 20px;
+           
+       }
+       .text-dark{
+           font-weight: bold;
+           display: block;
+
+       }
+       .dark{
+           font-weight: bold;
+           color: black;
+           padding-left: 110px;
+           display: block;
+       }
+
+       .dark:hover{
+           color: black;
+       }
+.text{
+    font-weight: bold;
+    color: black;
+    
+    
+}
+.brands{
+    display: flex;
+    flex-direction: row;
+    
+}
+.brands{
+    display: inline;
+}     
+.card-header{
+    font-weight: bolder !important;
+    
+}
+
+.button{
+    margin: 30px;
+    padding: 7px;
+}
+ .color{
+    font-size: 30px;
+    font-weight: bolder;
+   position: absolute;
+  
+   
+   /* left: 1150px; */
+   
+
+}
+.Previous{
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.sig{
+    font-size: 30px;
+    font-weight: bolder;
+   
+    
+}
